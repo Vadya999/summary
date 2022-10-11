@@ -1,0 +1,4 @@
+#Tue Oct 11 20:34:52 ALMT 2022
+base.0=C\:\\Users\\Vadya\\Documents\\GitHub\\Playclapp test\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
