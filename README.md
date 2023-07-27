@@ -1,3 +1,3 @@
 # summary
-for hh
-Gilmanov Vadim 
+Git
+Vadim 
